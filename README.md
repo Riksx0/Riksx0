@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I like to work in team<br>🌱 I’m currently studying <br>💬 Ask me about back-end stuff :D<br>⚡ I'm working in own projects
+🤝 I like to work in team<br>🌱 I’m currently studying <br>💬 Ask me about back-end stuff :D<br>⚡ I'm working in V2-VERSE
 
 
 ## 🌐 Socials:
